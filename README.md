@@ -11,7 +11,7 @@ O letmeask é um app desenvolvido durante a NLW#6 da @rocketseat que permite que
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
