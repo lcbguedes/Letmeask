@@ -1,8 +1,6 @@
 
 <p align="center">
-  <a href="https://letmeask-510c3.web.app">Visite o site aqui</a><br>
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a><br>
+  <a href="https://letmeask-5f62d.web.app">Visite o site aqui</a><br>
   <br>	
 </p>
 
